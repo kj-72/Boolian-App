@@ -39,6 +39,6 @@ Boolian is minimal app designed to help people learn about NFTs,as NFTs have bec
 - Google-Sign In
 - Firebase
 
-© 2024 Kshitij Jajorea. All rights reserved.
+© 2023 Kshitij Jajorea And Shubh Mishra. All rights reserved.
 
-This project and its content are protected by copyright law. No part of this project, including code, graphics, or gameplay elements, may be reproduced, distributed, modified, or used in any form without prior written permission from the copyright holder. For any inquiries regarding permissions or collaboration, please contact Kshitij Jajorea.
+This project and its content are protected by copyright law. No part of this project, including code, graphics, or gameplay elements, may be reproduced, distributed, modified, or used in any form without prior written permission from the copyright holder. For any inquiries regarding permissions or collaboration, please contact Kshitij Jajorea or Shubh Mishra.
